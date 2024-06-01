@@ -1,4 +1,4 @@
-# 🌾 Farm Product System
+# 🌾 Farm Products Management System
 
 This is a web application designed to connect farmers with consumers. Farmers can add their products to the platform, and users can browse and purchase these products by sending an email to the respective farmer. The system is built using Flask for the backend, with HTML, CSS, and JavaScript for the frontend. It uses XAMPP as the server for MySQL database integration.
 
